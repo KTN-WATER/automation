@@ -132,7 +132,7 @@
                     
                 </div>
                 
-            </div><div class="camera_target"><div class="cameraCont"><div class="cameraSlide cameraSlide_0 cameracurrent" style="visibility: visible; display: block; z-index: 999;"><img src="./ktn_water_files/slide-1.jpg" class="imgLoaded" data-alignment="" data-portrait="" width="1920" height="1000" style="visibility: visible; height: 1000px; margin-left: -8.5px; margin-right: -8.5px; margin-top: 0px; position: absolute; width: 1920px;"><div class="camerarelative" style="width: 1903px; height: 1000px;"></div></div><div class="cameraSlide cameraSlide_1 cameranext" style="display: none; z-index: 1;"><div class="camerarelative" style="width: 1903px; height: 1000px;"></div></div></div></div><div class="camera_overlayer"></div><div class="camera_target_content"><div class="cameraContents"><div class="cameraContent cameracurrent" style="display: block;"><div class="camera_caption"><div>
+            </div><div class="camera_target"><div class="cameraCont"><div class="cameraSlide cameraSlide_0 cameracurrent" style="visibility: visible; display: block; z-index: 999;"><img src="./ktn_files/slide-1.jpg" class="imgLoaded" data-alignment="" data-portrait="" width="1920" height="1000" style="visibility: visible; height: 1000px; margin-left: -8.5px; margin-right: -8.5px; margin-top: 0px; position: absolute; width: 1920px;"><div class="camerarelative" style="width: 1903px; height: 1000px;"></div></div><div class="cameraSlide cameraSlide_1 cameranext" style="display: none; z-index: 1;"><div class="camerarelative" style="width: 1903px; height: 1000px;"></div></div></div></div><div class="camera_overlayer"></div><div class="camera_target_content"><div class="cameraContents"><div class="cameraContent cameracurrent" style="display: block;"><div class="camera_caption"><div>
                         <div class="main-container">
                             <div class="container">
                                  <h2 class="wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">Taba3ni</h2>
@@ -140,10 +140,10 @@
                                <br>
                                 <p class="wow fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">Application mobile avec un chatbot intégré<br> pour gérer la mobilité des citoyens au grand tunis</p>
                                <div align="left">
-                                <a class="tran3s wow fadeInRight  button-two animated" data-wow-delay="0.499s" onclick="myFunction()" style="visibility: visible; animation-delay: 0.499s; animation-name: fadeInRight;"><img src="./ktn_water_files/2.png" alt="">GooglePlay</a>
+                                <a class="tran3s wow fadeInRight  button-two animated" data-wow-delay="0.499s" onclick="myFunction()" style="visibility: visible; animation-delay: 0.499s; animation-name: fadeInRight;"><img src="./ktn_files/2.png" alt="">GooglePlay</a>
                                 <div class="image-wrapper wow fadeInUp  animated" data-wow-delay="0.75s" style="visibility: visible; animation-delay: 0.75s; animation-name: fadeInUp;">
                                 	<table>
-                                		<tbody><tr><td><img src="./ktn_water_files/transppng" alt="" width="200" height="10"></td><td><img src="./ktn_water_files/img-1.png" alt="" width="330" height="600"></td></tr>
+                                		<tbody><tr><td><img src="./ktn_files/transppng" alt="" width="200" height="10"></td><td><img src="./ktn_files/img-1.png" alt="" width="330" height="600"></td></tr>
                                 	</tbody></table>
                                     
                                 </div>
@@ -204,9 +204,9 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                     </div>
                     <div class="boster-image-wrapper  wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
                     <table>
-                        <tbody><tr>  <td><img src="./ktn_water_files/transp.png" width="20" height="100" alt=""></td>
+                        <tbody><tr>  <td><img src="./ktn_files/transp.png" width="20" height="100" alt=""></td>
                     </tr>
-                    <tr>   <td><img src="./ktn_water_files/Taba3ni3.png" alt=""></td>
+                    <tr>   <td><img src="./ktn_files/Taba3ni3.png" alt=""></td>
                     </tr>
                 </tbody></table>
                         
@@ -222,9 +222,9 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                         
                        
                          <table>
-                        <tbody><tr>  <td><img src="./ktn_water_files/transp.png" width="10" height="70" alt=""></td>
+                        <tbody><tr>  <td><img src="./ktn_files/transp.png" width="10" height="70" alt=""></td>
                     </tr>
-                    <tr>   <td>&lt;                        <img src="./ktn_water_files/3d.png" alt="">
+                    <tr>   <td>&lt;                        <img src="./ktn_files/3d.png" alt="">
 </td>
                     </tr>
                 </tbody></table>
@@ -275,9 +275,9 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                     </div>
                     <div class="boster-image-wrapper  wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
                     <table>
-                        <tbody><tr>  <td><img src="./ktn_water_files/transp.png" width="10" height="100" alt=""></td>
+                        <tbody><tr>  <td><img src="./ktn_files/transp.png" width="10" height="100" alt=""></td>
                     </tr>
-                    <tr>   <td><img src="./ktn_water_files/mapss.png" alt=""></td>
+                    <tr>   <td><img src="./ktn_files/mapss.png" alt=""></td>
                     </tr>
                 </tbody></table>
                         
@@ -739,7 +739,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
             <div class="app-screenshot">
                 <h2>Capture d'écran de l'application</h2>
                 <div class="screenshot-container">
-                    <div class="phone-mockup"><img src="./ktn_water_files/mobile-mockup.png" alt="" class=""></div>
+                    <div class="phone-mockup"><img src="./ktn_files/mobile-mockup.png" alt="" class=""></div>
                     <div class="slider-row">
                         <div class="screenshoot-slider owl-carousel owl-theme owl-loaded">
                         
@@ -772,7 +772,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                          
                            
 
-                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-7079.4px, 0px, 0px); transition: all 1.2s ease 0s; width: 10060.2px;"><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img14.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img19.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img11.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/201.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img12.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img8.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img9.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img10.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img17.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/im11.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/im222.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img15.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img21.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img4.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img6.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img18.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img13.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img14.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img19.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img11.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/201.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img12.png" alt=""></div></div><div class="owl-item cloned active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img8.png" alt=""></div></div><div class="owl-item cloned active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img9.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img10.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/img17.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_water_files/im11.png" alt=""></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-7079.4px, 0px, 0px); transition: all 1.2s ease 0s; width: 10060.2px;"><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img14.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img19.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img11.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/201.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img12.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img8.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img9.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img10.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img17.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im11.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im222.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img15.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img21.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img4.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img6.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img18.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img13.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img14.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img19.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img11.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/201.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img12.png" alt=""></div></div><div class="owl-item cloned active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img8.png" alt=""></div></div><div class="owl-item cloned active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img9.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img10.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img17.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im11.png" alt=""></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
                         <!-- /.screenshoot-slider -->
                     </div>
                     <!-- /.row -->
@@ -841,7 +841,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-5 col-xs-12 footer-logo">
-                                <div class="logo"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_water_files/3.png" alt="Logo" width="150" height="60"></a></div>
+                                <div class="logo"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
                                
                             </div>
                         </div>
@@ -866,31 +866,31 @@ Caractéristiques étonnantes pour vous convaincre</h3>
         <!-- Js File_________________________________ -->
 
         <!-- j Query -->
-        <script type="text/javascript" src="./ktn_water_files/jquery.2.2.3.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/jquery.2.2.3.min.js.téléchargement"></script>
 
         <!-- Bootstrap JS -->
-        <script type="text/javascript" src="./ktn_water_files/bootstrap.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/bootstrap.min.js.téléchargement"></script>
 
         <!-- Vendor js _________ -->
         <!-- Camera Slider -->
-        <script type="text/javascript" src="./ktn_water_files/jquery.mobile.customized.min.js.téléchargement"></script>
-        <script type="text/javascript" src="./ktn_water_files/jquery.easing.1.3.js.téléchargement"></script>
-        <script type="text/javascript" src="./ktn_water_files/camera.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/jquery.mobile.customized.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/jquery.easing.1.3.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/camera.min.js.téléchargement"></script>
         <!-- WOW js -->
-        <script type="text/javascript" src="./ktn_water_files/wow.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/wow.min.js.téléchargement"></script>
         <!-- Tilt js -->
-        <script type="text/javascript" src="./ktn_water_files/tilt.jquery.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/tilt.jquery.js.téléchargement"></script>
         <!-- Fancybox -->
-        <script type="text/javascript" src="./ktn_water_files/jquery.fancybox.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/jquery.fancybox.min.js.téléchargement"></script>
         <!-- Validation -->
-        <script type="text/javascript" src="./ktn_water_files/validate.js.téléchargement"></script>
-        <script type="text/javascript" src="./ktn_water_files/jquery.form.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/validate.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/jquery.form.js.téléchargement"></script>
 
         <!-- owl.carousel -->
-        <script type="text/javascript" src="./ktn_water_files/owl.carousel.min.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/owl.carousel.min.js.téléchargement"></script>
 
         <!-- Theme js -->
-        <script type="text/javascript" src="./ktn_water_files/theme.js.téléchargement"></script>
+        <script type="text/javascript" src="./ktn_files/theme.js.téléchargement"></script>
 
     </div>
     <!-- /.main-page-wrapper -->
