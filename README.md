@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <!-- saved from url=(0038)https://taba3ni.github.io/index.html?# -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://taba3ni.github.io/index.html">--><base href=".">
+<html lang="en">
+	<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!--<base href="https://taba3ni.github.io/index.html">--><base href=".">
     
     <!-- For IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -31,7 +33,7 @@
 </head>
 
 <body style="overflow: visible;">
-    <div class="main-page-wrapper home-page-one">
+    
 
         <!-- ===================================================
 				Loading Transition
