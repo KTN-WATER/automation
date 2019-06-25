@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!-- saved from url=(0036)https://taba3ni.github.io/index.html -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://taba3ni.github.io/index.html">--><base href=".">
+<!-- saved from url=(0036)https://ktn-water.github.io/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://ktn-water.github.io/index.html">--><base href=".">
     
     <!-- For IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +11,7 @@
     <title>Taba3ni</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="56x56" href="https://taba3ni.github.io/images/icon.png">
+    <link rel="icon" type="image/png" sizes="56x56" href="https://ktn-water.github.io/images/icon.png">
 
 
     <!-- Main style sheet -->
@@ -51,7 +51,7 @@
             <header class="theme-main-header">
                 <div class="container">
                     <div class="menu-wrapper clearfix">
-                        <div class="logo float-left"><a href="https://taba3ni.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
+                        <div class="logo float-left"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
                        
 
                     </div>
@@ -809,7 +809,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
         <footer>
             <div class="container">
                 <div class="footer-data-wrapper">
-                    <form action="https://taba3ni.github.io/index.html#" class="subscribe-form">
+                    <form action="https://ktn-water.github.io/index.html#" class="subscribe-form">
                         <h2>Abonnez-vous à notre newsletter !!
 </h2>
                         <div class="input-wrapper">
@@ -835,13 +835,13 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                 
                                 <ul class="social-icon">
                                     <li><a href="https://web.facebook.com/Taba3ni-360643314794068/" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="https://taba3ni.github.io/index.html#" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://ktn-water.github.io/index.html#" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                     
-                                    <li><a href="https://taba3ni.github.io/index.html#" class="tran3s"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://ktn-water.github.io/index.html#" class="tran3s"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-5 col-xs-12 footer-logo">
-                                <div class="logo"><a href="https://taba3ni.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
+                                <div class="logo"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
                                
                             </div>
                         </div>
