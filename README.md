@@ -8,7 +8,7 @@
     <!-- For Resposive Device -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Taba3ni</title>
+    <title>KTN_WATER </title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="56x56" href="https://ktn-water.github.io/images/icon.png">
