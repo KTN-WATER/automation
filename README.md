@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<!-- saved from url=(0026)https://ktn-water.github.io/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://ktn-water.github.io/">--><base href=".">
+<!-- saved from url=(0036)https://taba3ni.github.io/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://taba3ni.github.io/index.html">--><base href=".">
     
     <!-- For IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,10 +8,10 @@
     <!-- For Resposive Device -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>KTN-WATER</title>
+    <title>Taba3ni</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="56x56" href="https://ktn-water.github.io/images/icon.png">
+    <link rel="icon" type="image/png" sizes="56x56" href="https://taba3ni.github.io/images/icon.png">
 
 
     <!-- Main style sheet -->
@@ -28,7 +28,7 @@
 			<script src="vendor/respond.js"></script>
 		<![endif]-->
 
-</head>  
+</head>
 
 <body style="overflow: visible;">
     <div class="main-page-wrapper home-page-one">
@@ -51,7 +51,7 @@
             <header class="theme-main-header">
                 <div class="container">
                     <div class="menu-wrapper clearfix">
-                        <div class="logo float-left"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="200" height="200"></a></div>
+                        <div class="logo float-left"><a href="https://taba3ni.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
                        
 
                     </div>
@@ -125,7 +125,7 @@
 					Theme Main SLider
 				=====================================================
 				-->
-            <div id="theme-main-banner" class="banner-one camera_wrap" style="display: block; height: 1000px;"><div class="camera_fakehover"><div class="camera_src camerastarted paused">
+            <div id="theme-main-banner" class="banner-one camera_wrap" style="display: block; height: 1000px;"><div class="camera_fakehover"><div class="camera_src camerastarted">
                 <div data-src="images/home/slide-1.jpg">
                     
                     <!-- /.camera_caption -->
@@ -217,7 +217,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
 
                         <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 col-xs-12 float-right  wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                        <div class="col-lg-6 col-xs-12 float-right  wow fadeInLeft" style="visibility: hidden; animation-name: none;">
                      
                         
                        
@@ -233,7 +233,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
 
                         </div>
                     </div>
-                    <div class="boster-image-wrapper  wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                    <div class="boster-image-wrapper  wow fadeInRight" style="visibility: hidden; animation-name: none;">
 
                           <div class="text">
                                 <div class="theme-title-two">
@@ -257,7 +257,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                     <!-- /.boster-image-wrapper -->
                 </div><br><br><br>    <div class="container">
                     <div class="row">
-                        <div class="col-lg-6 col-xs-12 float-right  wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                        <div class="col-lg-6 col-xs-12 float-right  wow fadeInRight" style="visibility: hidden; animation-name: none;">
                             <div class="text">
                                 <div class="theme-title-two">
                                     <h4>Map en temp réel</h4>
@@ -273,7 +273,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                             </div>
                         </div>
                     </div>
-                    <div class="boster-image-wrapper  wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                    <div class="boster-image-wrapper  wow fadeInLeft" style="visibility: hidden; animation-name: none;">
                     <table>
                         <tbody><tr>  <td><img src="./ktn_files/transp.png" width="10" height="100" alt=""></td>
                     </tr>
@@ -330,7 +330,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                 <div class="testimonial-section">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-8 col-xs-12 float-right wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                            <div class="col-lg-8 col-xs-12 float-right wow fadeInUp" style="visibility: hidden; animation-name: none;">
                                 <div class="theme-title-one">
                                     <h6>TÉMOIGNAGES</h6>
                                     <h2>Vérifiez ce que les gens <br>
@@ -357,7 +357,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                     
                                       
                                       
-                                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2240px, 0px, 0px); transition: all 1s ease 0s; width: 2880px;"><div class="owl-item cloned" style="width: 320px; margin-right: 0px;"><div class="item">
+                                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-960px, 0px, 0px); transition: all 1s ease 0s; width: 2880px;"><div class="owl-item cloned" style="width: 320px; margin-right: 0px;"><div class="item">
                                         <i class="flaticon-straight-quotes"></i>
                                         <p>“c'est une bonne idée bravo et bonne continuation </p>
                                         <div class="clearfix">
@@ -387,7 +387,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <span>etudiante a FST</span>
                                             </div>
                                         </div>
-                                    </div></div><div class="owl-item" style="width: 320px; margin-right: 0px;"><div class="item">
+                                    </div></div><div class="owl-item active" style="width: 320px; margin-right: 0px;"><div class="item">
                                         <i class="flaticon-straight-quotes"></i>
                                         <p>“Hethy bthaabt application li lezma ftunis ❤ Bravo </p>
                                         <div class="clearfix">
@@ -427,7 +427,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <span>etudiant a l'ISG</span>
                                             </div>
                                         </div>
-                                    </div></div><div class="owl-item cloned active" style="width: 320px; margin-right: 0px;"><div class="item">
+                                    </div></div><div class="owl-item cloned" style="width: 320px; margin-right: 0px;"><div class="item">
                                         <i class="flaticon-straight-quotes"></i>
                                         <p>“nchaaalllahh wlhh a7sen hajaa This is made my day</p>
                                         <div class="clearfix">
@@ -447,7 +447,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <span>etudiante a FST</span>
                                             </div>
                                         </div>
-                                    </div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style=""><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
+                                    </div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style=""><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div></div>
                                 <!-- /.testimonial-slider -->
                             </div>
                             <!-- /.main-slider-wrapper -->
@@ -498,7 +498,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
 
 
                                         <!-- /#yearly -->
-                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4408px, 0px, 0px); transition: all 1.2s ease 0s; width: 5800px;"><div class="owl-item cloned" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2552px, 0px, 0px); transition: all 1.2s ease 0s; width: 5800px;"><div class="owl-item cloned" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                                 <div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Musées</h6>
@@ -593,7 +593,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                             </div>
                                            
                                             </div>
-                                        </div></div><div class="owl-item" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                             	<div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;steg</h6>
@@ -602,7 +602,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                             </div>
                                                
                                             </div>
-                                        </div></div><div class="owl-item" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                             	<div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hopitaux</h6>
@@ -610,7 +610,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;&nbsp;24</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                             	<div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Municipalité</h6>
@@ -618,7 +618,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;&nbsp;46</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                             	<div class="text-left">
                                                 <h6>&nbsp;&nbsp;Poste tunisienne</h6>
@@ -626,7 +626,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;81</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                                 <div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Musées</h6>
@@ -658,7 +658,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;&nbsp;40</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                                 <div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Carrefour</h6>
@@ -666,7 +666,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;38</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item cloned active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                             	<div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stations</h6>
@@ -675,7 +675,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                </div>
                                           
                                             </div>
-                                        </div></div><div class="owl-item cloned active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                                 <div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pharmacies</h6>
@@ -683,7 +683,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;508</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item cloned active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                                 <div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;les lignes Bus</h6>
@@ -691,7 +691,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                                 <strong>&nbsp;&nbsp;&nbsp;&nbsp;183</strong>
                                            </div>
                                             </div>
-                                        </div></div><div class="owl-item cloned active" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
+                                        </div></div><div class="owl-item cloned" style="width: 232px; margin-right: 0px;"><div id="monthly" class="tab-pane price-table in active">
                                             <div class="col-inner">
                                                 <div class="text-left">
                                                 <h6>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kiosque</h6>
@@ -772,7 +772,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                          
                            
 
-                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-7079.4px, 0px, 0px); transition: all 1.2s ease 0s; width: 10060.2px;"><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img14.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img19.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img11.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/201.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img12.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img8.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img9.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img10.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img17.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im11.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im222.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img15.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img21.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img4.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img6.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img18.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img13.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img14.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img19.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img11.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/201.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img12.png" alt=""></div></div><div class="owl-item cloned active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img8.png" alt=""></div></div><div class="owl-item cloned active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img9.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img10.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img17.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im11.png" alt=""></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4098.6px, 0px, 0px); transition: all 1.2s ease 0s; width: 10060.2px;"><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img14.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img19.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img11.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/201.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img12.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img8.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img9.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img10.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img17.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im11.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im222.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img15.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img21.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img4.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img6.png" alt=""></div></div><div class="owl-item active" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img18.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img13.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img14.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img19.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img11.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/201.png" alt=""></div></div><div class="owl-item" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img12.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img8.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img9.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img10.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/img17.png" alt=""></div></div><div class="owl-item cloned" style="width: 372.6px; margin-right: 0px;"><div class="item"><img src="./ktn_files/im11.png" alt=""></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
                         <!-- /.screenshoot-slider -->
                     </div>
                     <!-- /.row -->
@@ -809,7 +809,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
         <footer>
             <div class="container">
                 <div class="footer-data-wrapper">
-                    <form action="https://ktn-water.github.io/#" class="subscribe-form">
+                    <form action="https://taba3ni.github.io/index.html#" class="subscribe-form">
                         <h2>Abonnez-vous à notre newsletter !!
 </h2>
                         <div class="input-wrapper">
@@ -835,13 +835,13 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                 
                                 <ul class="social-icon">
                                     <li><a href="https://web.facebook.com/Taba3ni-360643314794068/" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="https://ktn-water.github.io/#" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://taba3ni.github.io/index.html#" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                     
-                                    <li><a href="https://ktn-water.github.io/#" class="tran3s"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://taba3ni.github.io/index.html#" class="tran3s"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-5 col-xs-12 footer-logo">
-                                <div class="logo"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
+                                <div class="logo"><a href="https://taba3ni.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="150" height="60"></a></div>
                                
                             </div>
                         </div>
@@ -856,7 +856,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
 
 
         <!-- Scroll Top Button -->
-        <button class="scroll-top tran3s color-one-bg" style="display: none;">
+        <button class="scroll-top tran3s color-one-bg">
 				<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
 			</button>
 
