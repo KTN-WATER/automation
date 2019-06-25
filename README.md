@@ -15,9 +15,9 @@
 
 
     <!-- Main style sheet -->
-    <link rel="stylesheet" type="text/css" href="./ktn_water_files/style.css">
+    <link rel="stylesheet" type="text/css" href="./ktn_files/style.css">
     <!-- responsive style sheet -->
-    <link rel="stylesheet" type="text/css" href="./ktn_water_files/responsive.css">
+    <link rel="stylesheet" type="text/css" href="./ktn_files/responsive.css">
 
 
     <!-- Fix Internet Explorer ______________________________________-->
@@ -51,7 +51,7 @@
             <header class="theme-main-header">
                 <div class="container">
                     <div class="menu-wrapper clearfix">
-                        <div class="logo float-left"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_water_files/3.png" alt="Logo" width="200" height="200"></a></div>
+                        <div class="logo float-left"><a href="https://ktn-water.github.io/index.html"><img src="./ktn_files/3.png" alt="Logo" width="200" height="200"></a></div>
                        
 
                     </div>
