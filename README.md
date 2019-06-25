@@ -357,7 +357,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                     
                                       
                                       
-                                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-960px, 0px, 0px); transition: all 1s ease 0s; width: 2880px;"><div class="owl-item cloned" style="width: 320px; margin-right: 0px;"><div class="item">
+                                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-960px, 0px, 0px); transition: all 1s ease 0s; width: 200px;"><div class="owl-item cloned" style="width: 320px; margin-right: 0px;"><div class="item">
                                         <i class="flaticon-straight-quotes"></i>
                                         <p>“c'est une bonne idée bravo et bonne continuation </p>
                                         <div class="clearfix">
