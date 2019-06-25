@@ -53,7 +53,7 @@
             <header class="theme-main-header">
                 <div class="container">
                     <div class="menu-wrapper clearfix">
-                        <div class="logo float-left"><a href="https://taba3ni.github.io/index.html"><img src="./Taba3ni_files/3.png" alt="Logo" width="150" height="60"></a></div>
+                        <div class="logo float-left"><a href="https://taba3ni.github.io/index.html"><img src="./Taba3ni_files/3.PNG" alt="Logo" width="150" height="60"></a></div>
                        
 
                     </div>
@@ -798,7 +798,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-5 col-xs-12 footer-logo">
-                                <div class="logo"><a href="https://taba3ni.github.io/index.html"><img src="./Taba3ni_files/3.png" alt="Logo" width="200" height="000"></a></div>
+                                <div class="logo"><a href="https://taba3ni.github.io/index.html"><img src="./Taba3ni_files/3.PNG" alt="Logo" width="200" height="000"></a></div>
                                
                             </div>
                         </div>
