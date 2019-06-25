@@ -18,7 +18,7 @@
     <title>Ktn_water</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="56x56" href="Ktn_files/3.PNG">
+    <link rel="icon" type="image/png" sizes="56x56" href="https://github.com/KTN-WATER/index.html/blob/master/Ktn_files/3.PNG">
 
 
     <!-- Main style sheet -->
