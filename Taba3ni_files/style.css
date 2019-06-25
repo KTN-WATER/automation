@@ -83,26 +83,6 @@
 
  ***/
 
- #loader-wrapper {
-     position: fixed;
-     top: 0;
-     left: 0;
-     width: 50%;
-     height: 50%;
-     z-index: 999999;
-     background: #fff;
-     overflow: hidden;
- }
-
- #loader {
-     background: url(../images/1.gif);
-     width: 64px;
-     height: 49px;
-     position: relative;
-     top: 50%;
-     margin: -24px auto 0 auto;
- }
-
  /*** 
 
 ====================================================================
