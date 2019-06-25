@@ -704,38 +704,30 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                 <div class="screenshot-container">
                     <div class="phone-mockup"><img src="./Taba3ni_files/mobile-mockup.png" alt="" class=""></div>
                     <div class="slider-row">
-                        <div class="screenshoot-slider owl-carousel owl-theme owl-loaded">
-                        
-                         
-                           
-                            
-                            
-                             
-                            
-                          
-                                
+                        <div class="screenshoot-slider owl-carousel owl-them                             
                             
                                
                             
 
-                            
                                
-                            
-                              
-                            
-                                
-                            
 
-                            
-                             
-                            
-                          
-
-                             
-                         
-                           
-
-<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4034.66px, 0px, 0px); transition: all 1.2s ease 0s; width: 5458.66px;"><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img11.png" alt=""></div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/201.png" alt=""></div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img12.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img8.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img9.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img10.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img17.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/im11.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/im222.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img15.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img21.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img4.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img6.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img18.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img13.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img14.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img19.png" alt=""></div></div><div class="owl-item active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img11.png" alt=""></div></div><div class="owl-item active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/201.png" alt=""></div></div><div class="owl-item active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img12.png" alt=""></div></div><div class="owl-item cloned active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img8.png" alt=""></div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img9.png" alt=""></div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img10.png" alt=""></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+<div class="owl-stage-outer">
+	<div class="owl-stage" style="transform: translate3d(-4034.66px, 0px, 0px); transition: all 1.2s ease 0s; width: 200.66px;">
+		<div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;">
+			<div class="item"><img src="./Taba3ni_files/img11.png" alt="">
+			</div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;">
+		<div class="item"><img src="./Taba3ni_files/201.png" alt="">
+		</div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;">
+		<div class="item"><img src="./Taba3ni_files/img12.png" alt="">
+		</div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;">
+		<div class="item"><img src="./Taba3ni_files/img8.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;">
+		<div class="item"><img src="./Taba3ni_files/img9.png" alt="">
+		</div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;">
+		<div class="item">
+			<img src="./Taba3ni_files/img10.png" alt="">
+		</div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;">
+		<div class="item"><img src="./Taba3ni_files/img17.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/im11.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/im222.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img15.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img21.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img4.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img6.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img18.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img13.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img14.png" alt=""></div></div><div class="owl-item" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img19.png" alt=""></div></div><div class="owl-item active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img11.png" alt=""></div></div><div class="owl-item active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/201.png" alt=""></div></div><div class="owl-item active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img12.png" alt="">
+		</div></div><div class="owl-item cloned active" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img8.png" alt=""></div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img9.png" alt=""></div></div><div class="owl-item cloned" style="width: 237.333px; margin-right: 0px;"><div class="item"><img src="./Taba3ni_files/img10.png" alt=""></div></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
                         <!-- /.screenshoot-slider -->
                     </div>
                     <!-- /.row -->
@@ -804,7 +796,7 @@ Caractéristiques étonnantes pour vous convaincre</h3>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-5 col-xs-12 footer-logo">
-                                <div class="logo"><a href="https://taba3ni.github.io/index.html"><img src="./Taba3ni_files/3.png" alt="Logo" width="150" height="60"></a></div>
+                                <div class="logo"><a href="https://taba3ni.github.io/index.html"><img src="./Taba3ni_files/3.png" alt="Logo" width="200" height="000"></a></div>
                                
                             </div>
                         </div>
